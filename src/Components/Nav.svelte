@@ -1,6 +1,4 @@
-<script>
-    export let title = "Ahmed Suliman"
-</script>
+
 <svelte:head>
     <title>
         Ahmed Suliman | Web Developer & Designer
